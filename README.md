@@ -166,8 +166,8 @@ export const Button: React.FC<ButtonProps> = ({ children, ...props }) => (
 ## 🚀 Getting Started
 1. **Clone** this starter:  
    ```bash
-   git clone https://github.com/your-org/my-enterprise-app.git
-   cd my-enterprise-app
+   git clone [https://github.com/ahmed-soltan/tanstack-start-architecture]
+   cd tanstack-start-architecture
    npm install
    npm run dev
    ```
